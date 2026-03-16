@@ -160,7 +160,4 @@ Based on the funnel analysis, businesses can improve performance by:
 * Reducing friction in **checkout or signup processes**
 
 # 👨‍💻 Author
-
-**Nikhil Kumar DN**
-
-⭐ If you found this project useful, consider **starring the repository**!
+Nikhil Kumar DN
